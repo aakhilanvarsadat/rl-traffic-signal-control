@@ -1,0 +1,4 @@
+algo,test_avg_wait_mean,test_avg_wait_std,test_passed_mean,test_still_mean,test_speed_mean,test_switches_mean,model_path
+DQN,320.090,57.969,1230.3,841.0,5.556,720.0,compare_out/dqn/dqn_B_long.pt
+DoubleDQN,250.264,67.831,1323.3,748.0,5.970,713.3,compare_out/double/double_B_long.pt
+DuelingDQN,320.090,57.969,1230.3,841.0,5.556,720.0,compare_out/dueling/dueling_C_long.pt

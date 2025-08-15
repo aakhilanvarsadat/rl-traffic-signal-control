@@ -1,0 +1,4 @@
+algo,best_grid,val_avg_wait_mean,val_avg_wait_std,val_passed_mean,val_still_mean,val_speed_mean,val_switches_mean,model_path
+DQN,B,238.112,69.214,1309.0,762.3,6.074,707.3,compare_out/dqn/dqn_B_long.pt
+DoubleDQN,B,254.915,48.739,1285.3,786.0,5.789,720.0,compare_out/double/double_B_long.pt
+DuelingDQN,C,254.915,48.739,1285.3,786.0,5.789,720.0,compare_out/dueling/dueling_C_long.pt

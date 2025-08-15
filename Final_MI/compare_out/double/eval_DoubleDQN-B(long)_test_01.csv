@@ -1,0 +1,3 @@
+timestamp,sim_time_s,departed_total,passed_count,still_upstream,avg_waiting_s,avg_approach_speed_kmh,switches
+2025-08-11T09:35:16.669883,3600.00,2071,1209,862,401.937,4.802,720
+2025-08-12T04:07:29.525500,3600.00,2071,1339,732,312.430,5.275,713

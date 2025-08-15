@@ -1,0 +1,6 @@
+scenarios_out/hourhold_src_routes_train_01.rou.xml
+scenarios_out/hourhold_src_routes_train_02.rou.xml
+scenarios_out/hourhold_src_routes_train_03.rou.xml
+scenarios_out/hourhold_src_routes_train_04.rou.xml
+scenarios_out/hourhold_src_routes_train_05.rou.xml
+scenarios_out/hourhold_src_routes_train_06.rou.xml
